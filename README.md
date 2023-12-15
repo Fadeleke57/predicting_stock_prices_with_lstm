@@ -2,18 +2,18 @@
 
 To be integrated with Bonsai Finance
 
-❚ Installing Python dependencies
+ Installing Python dependencies
 
-❚ Data preparation: acquiring data from Alpha Vantage stock APIs
+ Data preparation: acquiring data from Alpha Vantage stock APIs
 
-❚ Data preparation: normalizing raw data
+ Data preparation: normalizing raw data
 
-❚ Data preparation: generating training and validation datasets
+ Data preparation: generating training and validation datasets
 
-❚ Defining the LSTM model
+ Defining the LSTM model
 
-❚ Model training
+ Model training
 
-❚ Model evaluation
+ Model evaluation
 
-❚ Predicting future stock prices
+ Predicting future stock prices
