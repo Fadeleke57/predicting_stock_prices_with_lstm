@@ -9,7 +9,7 @@ def prepare_data_x(x, window_size):
 
 
 def prepare_data_y(x, window_size):
-    # # perform simple moving average
+    # perform simple moving average
     # output = np.convolve(x, np.ones(window_size), 'valid') / window_size
 
     # use the next day as label
