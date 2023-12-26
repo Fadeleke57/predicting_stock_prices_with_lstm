@@ -18,6 +18,8 @@ This project focuses on the development of a machine learning model using Long S
 ## Technologies
 Python
 <br>
+PyTorch
+<br>
 Alpha Vantage API
 <br>
 LSTM (Long Short-Term Memory)
