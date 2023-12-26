@@ -3,7 +3,7 @@
 ### (To be integrated with Bonsai Finance architecture)
 
 ## Description
-This project focuses on the development of a machine learning model using Long Short-Term Memory (LSTM) networks to predict next-day stock prices. It utilizes data acquired from Alpha Vantage stock APIs and employs Python for data preparation, model definition, training, evaluation, and prediction.
+This project focuses on the development of a machine learning model using Long Short-Term Memory (LSTM) networks to predict next-day stock prices. It utilizes data acquired from Alpha Vantage stock APIs and employs PyTorch for data preparation, model definition, training, evaluation, and prediction along with Matplotlib to display the data.
 
 ## Process
 1. Installing Python Dependencies: Setting up the required libraries and frameworks for data processing and machine learning.
@@ -17,6 +17,8 @@ This project focuses on the development of a machine learning model using Long S
 
 ## Technologies
 Python
+<br>
+PyTorch
 <br>
 Alpha Vantage API
 <br>
