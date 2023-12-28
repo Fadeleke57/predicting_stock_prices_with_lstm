@@ -4,20 +4,13 @@ import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 
 import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import torch.optim as optim
-from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
-
-from alpha_vantage.timeseries import TimeSeries 
 
 from config import config
 from download_data import download_data
 from data_normalization import Normalizer
 from data_prep import prepare_data_x, prepare_data_y
 from download_data_pytorch import TimeSeriesDataset
-from LSTMModel import LSTMModel
 
 from epoch import *
 
